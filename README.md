@@ -21,7 +21,6 @@
 * 📄 **[get\_next\_line](https://github.com/ali-alemami/get_next_line)** — Reads a line from any file descriptor, one call at a time
 * 📊 **[push\_swap](https://github.com/ali-alemami/push_swap)** — Sorting with two stacks and a limited instruction set; algorithm optimization under constraints
 * 🔀 **[pipex](https://github.com/ali-alemami/pipex)** — Unix pipeline behavior in C: `fork`, `execve`, `pipe`, `dup2`, PATH resolution
-* 🗂️ **[42-core](https://github.com/ali-alemami/42-core)** — Overview of my 42 Common Core journey and solutions
 
 ---
 
@@ -38,7 +37,7 @@
 
 ## What I'm Up To
 
-* ⚙️ Grinding through **42 Amman Common Core** — currently working on philosophers
+* ⚙️ Working through **42 Amman Common Core** — currently on philosophers
 * 🎓 Parallel CS coursework at **Hashemite University**
 * 🎯 Targeting a **backend or full-stack internship** after minishell
 * 🌐 Personal site → **[ali-alemami.github.io](https://ali-alemami.github.io)**
