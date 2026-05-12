@@ -39,7 +39,6 @@
 
 * ⚙️ Working through **42 Amman Common Core** — currently on philosophers
 * 🎓 Parallel CS coursework at **Hashemite University**
-* 🎯 Targeting a **backend or full-stack internship** after minishell
 * 🌐 Personal site → **[ali-alemami.github.io](https://ali-alemami.github.io)**
 
 ---
