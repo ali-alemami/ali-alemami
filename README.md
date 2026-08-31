@@ -1,5 +1,5 @@
 # Hi, I'm Ali 👋
-📍 **Amman, Jordan** | 🎓 **CS Student @ Hashemite University + 42 Amman** | 🔧 **Low-level & Backend Systems Developer**
+📍 **Amman, Jordan** | 🎓 **CS Student @ 42 Amman & The Hashemite University** | 🔧 **Low-Level Systems & Backend Developer**
 
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
@@ -9,42 +9,47 @@
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-> *Building close to the metal — one syscall at a time.*
+> *Computer Science student specializing in backend & low-level systems engineering, with hands-on experience in C/C++ (POSIX system APIs, AST parsing, multithreading, concurrency, memory models) and C#/.NET enterprise software architecture (3-tier design, ADO.NET, SQL Server).*
 
 ---
 
 ## 🚀 Featured Projects
 
-* 🐚 **[minishell](https://github.com/ali-alemami/minishell)** — Custom POSIX-compliant Unix shell in C featuring an Abstract Syntax Tree (AST) parser, pipeline execution, redirections, variable expansions, and signal handling.
-* 🏦 **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — A 1,500+ line C++ Banking & ATM engine featuring bitmask-based permissions, OOP architecture, and custom file-based database serialization.
-* 🍝 **[philo](https://github.com/ali-alemami/philo)** — Multi-threaded concurrency simulation of Dijkstra's Dining Philosophers problem in C, solving race conditions and starvation with POSIX mutexes and microsecond timing.
-* 🔮 **[mini_rt](https://github.com/ali-alemami/mini_rt)** — 3D raytracing engine written in C from scratch, implementing vector math, lighting physics (diffuse, ambient, specular), and geometric intersections.
-* 🐳 **[inception](https://github.com/ali-alemami/inception)** — System administration and infrastructure project orchestrating isolated NGINX (TLS/SSL), WordPress, and MariaDB microservices with Docker Compose.
-* 🥞 **[push_swap](https://github.com/ali-alemami/push_swap)** — Algorithmic problem-solving project in C that sorts data across two stacks using an optimized minimum-operation sorting algorithm.
+* 🍝 **[philo](https://github.com/ali-alemami/philo)** — Race-free multithreaded simulation of Dijkstra's Dining Philosophers using POSIX threads, mutex locks, asynchronous monitoring routines, and microsecond delta timers (`gettimeofday`).
+* 🌐 **[webserv](https://github.com/ali-alemami/webserv)** *(in progress)* — High-performance non-blocking HTTP/1.1 server in C++98 using `epoll` I/O multiplexing, stateful request stream parsing (GET/POST/DELETE), NGINX-style configuration parsing, and CGI execution pipelines.
+* 🐳 **[inception](https://github.com/ali-alemami/inception)** — Multi-service infrastructure orchestrating isolated NGINX (TLS/SSL v1.2/v1.3), WordPress (PHP-FPM), and MariaDB microservices with Docker Compose on Alpine Linux.
+* 🐚 **[minishell](https://github.com/ali-alemami/minishell)** — Custom POSIX-compliant Unix shell in C featuring an Abstract Syntax Tree (AST) parser, subshell execution, pipelines, heredocs, variable expansions, and signal handling; zero leaks via Valgrind.
+* 🔮 **[mini_rt](https://github.com/ali-alemami/mini_rt)** — 3D raytracing engine written in C from scratch, implementing vector math, quadratic discriminant intersections, and Phong illumination physics (ambient, diffuse, specular, shadows) rendered via MiniLibX.
+* ⚡ **[cpps](https://github.com/ali-alemami/cpps)** — 42 C++ Modules 00–09 (OOP, Orthodox Canonical Form, polymorphism, templates, STL) featuring the **Ford-Johnson Merge-Insert Sort (CPP09)** with dual STL containers (`std::vector`, `std::deque`) and Jacobsthal pairing heuristics.
+* 🏦 **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — Modular dual-engine banking & ATM application featuring bitmask-based user access controls, custom delimiter-based file serialization (`#//#`), and transaction audit logs.
+* 🏢 **[Contacts-App-3Tier](https://github.com/ali-alemami/Contacts-App-3Tier)** — Enterprise 3-tier application in C# with strict separation across Presentation, Business Logic, and Data Access layers using parameterized T-SQL commands with ADO.NET.
+* 🥞 **[push_swap](https://github.com/ali-alemami/push_swap)** — High-efficiency two-stack sorting algorithm using bitwise radix operations and instruction count optimization.
 
 ---
 
 ## 🗄️ Master Repositories & Archives
 
-* ⚡ **[42-core](https://github.com/ali-alemami/42-core)** — The central master directory and documentation for all 42 Amman projects.
-* 🧮 **[Programming-Advices-Core](https://github.com/ali-alemami/Programming-Advices-Core)** — Domain-driven master repository of 215+ algorithmic solutions, C++ memory management, OOP patterns, and custom Data Structures implementations.
+* ⚡ **[42-core](https://github.com/ali-alemami/42-core)** — The central master directory and documentation for all 42 Amman Common Core projects (22/24 complete).
+* 🧮 **[Programming-Advices-Core](https://github.com/ali-alemami/Programming-Advices-Core)** — Domain-driven master repository of 225+ algorithmic solutions across 5 levels, 5 relational database schemas (Medical Clinic, E-Commerce, HR/Payroll, Vehicle Registry, Employee Analytics), and 3-tier enterprise architecture.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical & Spoken Skills
 
 | Domain | Technologies & Concepts |
 | :--- | :--- |
-| **Languages** | C (POSIX/C99), C++ (98/11/17), C# (.NET), SQL (T-SQL), Bash |
-| **Systems & Low-Level** | Memory Management, POSIX Threads (`pthreads`), Mutexes, Sockets, UNIX IPC, Signals |
-| **Architecture & Patterns** | OOP Design, 3-Tier Architecture, File Serialization, Bitmask Access Control |
-| **Backend & Infrastructure** | Linux, Docker & Docker Compose, NGINX, Makefiles, Valgrind, AddressSanitizer, SQL Server |
+| **Programming Languages** | C (POSIX/C99), C++ (98/11/17), C# (.NET), SQL (T-SQL), Bash |
+| **Systems & Architecture** | Unix process control, AST parsing, non-blocking `epoll` sockets, multithreading (`pthreads`), mutexes, 3-tier architecture, IPC |
+| **CS Fundamentals** | OOP & Design Patterns, Data Structures & Algorithms, Memory Management (Valgrind/ASan), Computer Networks |
+| **Database & Tools** | SQL Server, ADO.NET, Docker, Docker Compose, NGINX, Git, Linux, GDB, Valgrind, Makefiles |
+| **Languages (Spoken)** | Arabic (Native), English (Fluent / Professional) |
 
 ---
 
-## 📌 What I'm Up To
+## 📌 Education & Status
 
-* ⚙️ **42 Amman Common Core** — Level 4.7, `minishell` & `mini_rt` completed, currently working on `inception`, `webserv` & `transcendence`
-* 🎓 Parallel Computer Science coursework at **The Hashemite University**
-* 🌐 Personal Portfolio & Resume → **[ali-alemami.github.io](https://ali-alemami.github.io)**
-* 📫 **Email:** [ali.alemami01@gmail.com](mailto:ali.alemami01@gmail.com) | [LinkedIn](https://linkedin.com/in/ali-alemami-183649382)
+* ⚙️ **42 Amman** — Common Core, 22/24 projects complete *(peer-reviewed, project-based)* | 2025 – present
+* 🎓 **The Hashemite University** — BSc in Computer Science | 2022 – 2026 (Expected)
+* 🎯 **Seeking:** Entry-Level Backend / Systems / Software Engineering Roles
+* 🌐 **Portfolio & Resume:** [ali-alemami.github.io](https://ali-alemami.github.io)
+* 📫 **Contact:** [ali.alemami01@gmail.com](mailto:ali.alemami01@gmail.com) | [LinkedIn](https://linkedin.com/in/ali-alemami-183649382)
