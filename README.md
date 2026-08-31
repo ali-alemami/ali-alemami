@@ -57,4 +57,4 @@
 * ⚙️ **42 Amman Common Core** — Level 4.7, minishell & minirt complete, now working on inception, webserv & transcendence
 * 🎓 Parallel CS coursework at **Hashemite University**
 * 🌐 Personal site → **[ali-alemami.github.io](https://ali-alemami.github.io)**
-* 📫 **Email:** ali.alemame01@gmail.com
+* 📫 **Email:** ali.alemami01@gmail.com
