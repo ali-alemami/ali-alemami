@@ -13,14 +13,14 @@
 ---
 
 ## 42 Amman — Common Core Projects
-* 🐚 **[minishell](https://github.com/mkhandaq/minishell)** — POSIX-style shell in C (team project); parsing, pipes, redirections, builtins, signal handling
-* 🌌 **[minirt](https://github.com/3amer-bit/mini_rt)** — Raytracer in C using MiniLibX (team project); ray-object intersections, lighting, shadows
-* 🍝 **[philosophers](https://github.com/ali-alemami/philosophers)** — Dining philosophers problem in C; concurrency with pthreads, mutexes, and precise timing
 * 📚 **[libft](https://github.com/ali-alemami/libft)** — Custom C standard library from scratch; foundation for everything that follows
 * 🖨️ **[ft\_printf](https://github.com/ali-alemami/ft_printf)** — Variadic reimplementation of `printf` with full format specifier support
 * 📄 **[get\_next\_line](https://github.com/ali-alemami/get_next_line)** — Reads a line from any file descriptor, one call at a time
 * 📊 **[push\_swap](https://github.com/ali-alemami/push_swap)** — Sorting with two stacks and a limited instruction set; algorithm optimization under constraints
 * 🔀 **[pipex](https://github.com/ali-alemami/pipex)** — Unix pipeline behavior in C: `fork`, `execve`, `pipe`, `dup2`, PATH resolution
+* 🐚 **[minishell](https://github.com/ali-alemami/minishell)** — POSIX-style shell in C (team project); parsing, pipes, redirections, builtins, signal handling
+* 🌌 **[minirt](https://github.com/ali-alemami/mini_rt)** — Raytracer in C using MiniLibX (team project); ray-object intersections, lighting, shadows
+* 🍝 **[philosophers](https://github.com/ali-alemami/philosophers)** — Dining philosophers problem in C; concurrency with pthreads, mutexes, and precise timing
 * 🧩 **[CPP Modules 00-09](https://github.com/ali-alemami/cpps)** — C++ fundamentals through STL: OOP, inheritance, polymorphism, templates, containers
 * 🐳 **webserv** *(in progress)* — HTTP server in C++ from scratch: sockets, non-blocking I/O, CGI
 * 🐋 **inception** *(in progress)* — Multi-service infra with Docker: NGINX, WordPress, MariaDB, custom images
