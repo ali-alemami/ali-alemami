@@ -42,7 +42,13 @@
 [![Data Structures](https://img.shields.io/badge/-Data%20Structures-FF6F00?style=flat-square)]()
 [![Algorithms](https://img.shields.io/badge/-Algorithms-8E24AA?style=flat-square)]()
 [![Unix / POSIX](https://img.shields.io/badge/-Unix%20%2F%20POSIX-000000?style=flat-square&logo=gnubash&logoColor=white)]()
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)]()
+[![Memory Management](https://img.shields.io/badge/-Memory%20Management-4B0082?style=flat-square)]()
+[![Concurrency](https://img.shields.io/badge/-Concurrency%20%26%20Threads-D22128?style=flat-square)]()
+[![Network Sockets](https://img.shields.io/badge/-Network%20Sockets-00599C?style=flat-square)]()
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)]()
+[![WinForms](https://img.shields.io/badge/-WinForms-0078D7?style=flat-square&logo=windows&logoColor=white)]()
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)]()
 
 ---
