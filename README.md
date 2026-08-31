@@ -19,7 +19,7 @@
 * 🏦 **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — A 1,500+ line C++ Banking & ATM engine featuring bitmask-based permissions, OOP architecture, and custom file-based database serialization.
 * 🍝 **[philo](https://github.com/ali-alemami/philo)** — Multi-threaded concurrency simulation of Dijkstra's Dining Philosophers problem in C, solving race conditions and starvation with POSIX mutexes and microsecond timing.
 * 🔮 **[mini_rt](https://github.com/ali-alemami/mini_rt)** — 3D raytracing engine written in C from scratch, implementing vector math, lighting physics (diffuse, ambient, specular), and geometric intersections.
-* 🌀 **[fract-ol](https://github.com/ali-alemami/fract-ol)** — Interactive 2D graphical fractal explorer in C using MiniLibX, rendering Mandelbrot and Julia sets with complex number math.
+* 🐳 **[inception](https://github.com/ali-alemami/inception)** — System administration and infrastructure project orchestrating isolated NGINX (TLS/SSL), WordPress, and MariaDB microservices with Docker Compose.
 * 🥞 **[push_swap](https://github.com/ali-alemami/push_swap)** — Algorithmic problem-solving project in C that sorts data across two stacks using an optimized minimum-operation sorting algorithm.
 
 ---
@@ -44,7 +44,7 @@
 
 ## 📌 What I'm Up To
 
-* ⚙️ **42 Amman Common Core** — Level 4.7, `minishell` & `mini_rt` completed, currently preparing for upcoming capstones (`webserv`, `inception`, `transcendence`)
+* ⚙️ **42 Amman Common Core** — Level 4.7, `minishell` & `mini_rt` completed, currently working on `inception`, `webserv` & `transcendence`
 * 🎓 Parallel Computer Science coursework at **The Hashemite University**
 * 🌐 Personal Portfolio & Resume → **[ali-alemami.github.io](https://ali-alemami.github.io)**
 * 📫 **Email:** [ali.alemami01@gmail.com](mailto:ali.alemami01@gmail.com) | [LinkedIn](https://linkedin.com/in/ali-alemami-183649382)
