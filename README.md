@@ -13,6 +13,7 @@
 ---
 
 ## 42 Amman — Common Core Projects
+* 🗄️ **[42 Core Archive](https://github.com/ali-alemami/42-core)** — The central monorepo containing all my foundational C projects.
 * 📚 **[libft](https://github.com/ali-alemami/libft)** — Custom C standard library from scratch; foundation for everything that follows
 * 🖨️ **[ft\_printf](https://github.com/ali-alemami/ft_printf)** — Variadic reimplementation of `printf` with full format specifier support
 * 📄 **[get\_next\_line](https://github.com/ali-alemami/get_next_line)** — Reads a line from any file descriptor, one call at a time
@@ -30,10 +31,9 @@
 
 ## Programming Advices — OOP, C# & Architecture
 * 🏦 **[Bank & ATM System (C++)](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — A 1,500+ line C++ capstone featuring bitmask-based permissions, custom serialization, and a fully functional ATM simulator.
+* 🗄️ **[Contacts App 3-Tier (C#)](https://github.com/ali-alemami/Contacts-App-3Tier)** — A strictly layered 3-Tier architecture application demonstrating database connectivity with C# and ADO.NET.
 * 🎮 **[C# WinForms Collection](https://github.com/ali-alemami/CSharp-WinForms-Collection)** — UI-driven applications including a Pizza Ordering System, Random Password Generator, and Tic-Tac-Toe game.
-* 🧩 **[Algorithms & Problem Solving](https://github.com/ali-alemami/Programming-Advices-Algorithms)** — My personal library of solutions to over 400 complex algorithmic exercises.
-* 🖥️ **[C++ Mini Projects](https://github.com/ali-alemami/CPP-Mini-Projects)** — Procedural logic projects including a randomized Math Quiz game and other console apps.
-* 📦 **[Data Structures (C++)](https://github.com/ali-alemami/Data-Structures-CPP)** — Custom implementations of Singly/Doubly Linked Lists, Stacks, Queues, and Maps from scratch.
+* 📚 **[Programming Advices Core](https://github.com/ali-alemami/Programming-Advices-Core)** — A master archive containing my foundational C++ work, custom Data Structures implementations, and solutions to over 150 algorithmic problems.
 
 ---
 
