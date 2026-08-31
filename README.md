@@ -26,7 +26,7 @@
 
 ## 🏗️ Current Focus & Advanced Milestones (42 Common Core • Level 4.7)
 
-* 🌐 **[webserv](https://github.com/ali-alemami/webserv)** — Fully functional, non-blocking HTTP/1.1 web server in C++98 using / connection multiplexing, configuration parsing, and CGI support.
+* 🌐 **[webserv](https://github.com/ali-alemami/webserv)** — Fully functional, non-blocking HTTP/1.1 web server in C++98 using `epoll`/`select` connection multiplexing, configuration parsing, and CGI support.
 * 🐳 **[inception](https://github.com/ali-alemami/inception)** — System administration and infrastructure project orchestrating isolated NGINX (TLS/SSL), WordPress, and MariaDB microservices with Docker Compose.
 * 🏓 **[transcendence](https://github.com/ali-alemami/transcendence)** — Full-stack single-page application (SPA) featuring real-time multiplayer Pong over WebSockets with authentication.
 
@@ -44,7 +44,7 @@
 | Domain | Technologies & Concepts |
 | :--- | :--- |
 | **Languages** | C (POSIX/C99), C++ (98/11/17), C# (.NET), SQL (T-SQL), Bash |
-| **Systems & Low-Level** | Memory Management, POSIX Threads (), Mutexes, Sockets, UNIX IPC, Signals |
+| **Systems & Low-Level** | Memory Management, POSIX Threads (`pthreads`), Mutexes, Sockets, UNIX IPC, Signals |
 | **Architecture & Patterns** | OOP Design, 3-Tier Architecture, File Serialization, Bitmask Access Control |
 | **Backend & Infrastructure** | Linux, Docker & Docker Compose, NGINX, Makefiles, Valgrind, AddressSanitizer, SQL Server |
 
