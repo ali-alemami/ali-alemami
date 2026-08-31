@@ -30,7 +30,6 @@
 
 ## Programming Advices — OOP, C# & Architecture
 * 🏦 **[Bank & ATM System (C++)](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — A 1,500+ line C++ capstone featuring bitmask-based permissions, custom serialization, and a fully functional ATM simulator.
-* 📇 **[Contacts Application (C# & ADO.NET)](https://github.com/ali-alemami/Contacts-App-3Tier)** — A strictly separated 3-tier architecture application (Presentation, Business, Data Access) using C# and SQL Server.
 * 🎮 **[C# WinForms Collection](https://github.com/ali-alemami/CSharp-WinForms-Collection)** — UI-driven applications including a Pizza Ordering System, Random Password Generator, and Tic-Tac-Toe game.
 * 🧩 **[Algorithms & Problem Solving](https://github.com/ali-alemami/Programming-Advices-Algorithms)** — My personal library of solutions to over 400 complex algorithmic exercises.
 * 🖥️ **[C++ Mini Projects](https://github.com/ali-alemami/CPP-Mini-Projects)** — Procedural logic projects including a randomized Math Quiz game and other console apps.
