@@ -22,8 +22,8 @@
 * 🌌 **[minirt](https://github.com/ali-alemami/mini_rt)** — Raytracer in C using MiniLibX (team project); ray-object intersections, lighting, shadows
 * 🍝 **[philosophers](https://github.com/ali-alemami/philosophers)** — Dining philosophers problem in C; concurrency with pthreads, mutexes, and precise timing
 * 🧩 **[CPP Modules 00-09](https://github.com/ali-alemami/cpps)** — C++ fundamentals through STL: OOP, inheritance, polymorphism, templates, containers
-* 🐳 **[webserv](https://github.com/ali-alemami/webserv)** *(in progress)* — HTTP server in C++ from scratch: sockets, non-blocking I/O, CGI
 * 🐋 **[inception](https://github.com/ali-alemami/inception)** *(in progress)* — Multi-service infra with Docker: NGINX, WordPress, MariaDB, custom images
+* 🐳 **[webserv](https://github.com/ali-alemami/webserv)** *(in progress)* — HTTP server in C++ from scratch: sockets, non-blocking I/O, CGI
 * 🌐 **[transcendence](https://github.com/ali-alemami/transcendence)** *(in progress)* — Full-stack web app: real-time gameplay, user management, containerized deployment
 
 ---
