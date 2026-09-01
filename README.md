@@ -52,4 +52,4 @@
 * 🎓 **The Hashemite University** — BSc in Computer Science | 2022 – 2026 (Expected)
 * 🎯 **Seeking:** Entry-Level Backend / Systems / Software Engineering Roles
 * 🌐 **Portfolio & Resume:** [ali-alemami.github.io](https://ali-alemami.github.io)
-* 📫 **Contact:** [ali.alemami01@gmail.com](mailto:ali.alemami01@gmail.com) | [LinkedIn](https://linkedin.com/in/ali-alemami-183649382)
+* 📫 **Contact:** [ali.alemami01@gmail.com](mailto:ali.alemami01@gmail.com) | [LinkedIn](https://linkedin.com/in/ali-alemami)
