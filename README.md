@@ -1,5 +1,5 @@
 # Hi, I'm Ali 👋
-📍 **Amman, Jordan** | 🎓 **CS Student @ 42 Amman & The Hashemite University** | 🔧 **Low-Level Systems & Backend Developer**
+📍 **Amman, Jordan** | 🎓 **CS Student @ Hashemite University + 42 Amman** | 🔧 **Systems & Backend Developer**
 
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
@@ -29,27 +29,27 @@
 
 ## 🗄️ Master Repositories & Archives
 
-* ⚡ **[42-core](https://github.com/ali-alemami/42-core)** — The central master directory and documentation for all 42 Amman Common Core projects (22/24 complete).
+* ⚡ **[42-core](https://github.com/ali-alemami/42-core)** — The central directory for all my 42 Amman Common Core projects (22/24 projects complete).
 * 🧮 **[Programming-Advices-Core](https://github.com/ali-alemami/Programming-Advices-Core)** — Domain-driven master repository of 225+ algorithmic solutions across 5 levels, 5 relational database schemas (Medical Clinic, E-Commerce, HR/Payroll, Vehicle Registry, Employee Analytics), and 3-tier desktop architecture.
 
 ---
 
-## 🛠️ Technical & Spoken Skills
+## 🛠️ Technical Skills
 
 | Domain | Technologies & Concepts |
 | :--- | :--- |
 | **Programming Languages** | C (POSIX/C99), C++ (98/11/17), C# (.NET), SQL (T-SQL), Bash |
-| **Systems & OS Concepts** | POSIX APIs, Multithreading (`pthreads`), Concurrency & Mutexes, Sockets / `epoll`, Process Control & IPC, Memory Management (Valgrind/ASan) |
+| **Systems & OS Concepts** | Memory Management (Valgrind/ASan), Pthreads, Mutexes & Concurrency, Network Sockets / `epoll`, POSIX IPC & Signals |
 | **CS Fundamentals** | Data Structures & Algorithms, OOP & Design Patterns, 3-Tier Architecture, Computer Networks |
-| **Tools & Infrastructure** | SQL Server, ADO.NET, Docker, Docker Compose, NGINX, Git, Linux, GDB, Makefiles |
-| **Languages (Spoken)** | Arabic (Native), English (Fluent / Professional) |
+| **Tools & Infrastructure** | Linux/Unix, Git/GitHub, Docker & Docker Compose, Makefiles, NGINX, SQL Server, ADO.NET, GDB |
+| **Spoken Languages** | Arabic (Native), English (Fluent / Professional) |
 
 ---
 
-## 📌 Education & Status
+## 📌 Education & Contact
 
 * ⚙️ **42 Amman** — Common Core, 22/24 projects complete *(peer-reviewed, project-based)* | 2025 – present
 * 🎓 **The Hashemite University** — BSc in Computer Science | 2022 – 2026 (Expected)
 * 🎯 **Seeking:** Entry-Level Backend / Systems / Software Engineering Roles
-* 🌐 **Portfolio & Resume:** [ali-alemami.github.io](https://ali-alemami.github.io)
+* 🌐 **Portfolio:** [ali-alemami.github.io](https://ali-alemami.github.io)
 * 📫 **Contact:** [ali.alemami01@gmail.com](mailto:ali.alemami01@gmail.com) | [LinkedIn](https://linkedin.com/in/ali-alemami)
