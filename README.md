@@ -9,7 +9,7 @@
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-> *Computer Science student specializing in backend & low-level systems engineering, with hands-on experience in C/C++ (POSIX system APIs, multithreading, concurrency, memory models) and C#/.NET (3-tier architecture, ADO.NET, SQL Server).*
+> *Systems and backend developer with hands-on experience building Unix shells, HTTP servers, and concurrent simulations in C/C++ at 42 Amman, alongside enterprise desktop applications in C#/.NET. CS student at Hashemite University, 22/24 projects into the 42 Common Core.*
 
 ---
 
