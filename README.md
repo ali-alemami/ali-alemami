@@ -15,15 +15,15 @@
 
 ## 🚀 Featured Projects
 
-* 🍝 **[philo](https://github.com/ali-alemami/philo)** — Race-free multithreaded simulation of Dijkstra's Dining Philosophers using POSIX threads, mutex locks, asynchronous monitoring routines, and microsecond delta timers (`gettimeofday`).
-* 🌐 **[webserv](https://github.com/ali-alemami/webserv)** *(in progress)* — High-performance non-blocking HTTP/1.1 server in C++98 using `epoll` I/O multiplexing, stateful request stream parsing (GET/POST/DELETE), NGINX-style configuration parsing, and CGI execution pipelines.
+* 🍝 **[philo](https://github.com/ali-alemami/philo)** — Multithreaded simulation of Dijkstra's Dining Philosophers using POSIX threads and mutex synchronization; prevents deadlocks and thread starvation using asynchronous state monitors and microsecond delta timers.
+* 🌐 **[webserv](https://github.com/ali-alemami/webserv)** — Non-blocking HTTP/1.1 web server in C++98 using `epoll` event multiplexing, supporting request stream parsing (GET/POST/DELETE), NGINX-style route configurations, and dynamic CGI execution.
 * 🐳 **[inception](https://github.com/ali-alemami/inception)** — Multi-service infrastructure orchestrating isolated NGINX (TLS/SSL v1.2/v1.3), WordPress (PHP-FPM), and MariaDB microservices with Docker Compose on Alpine Linux.
-* 🐚 **[minishell](https://github.com/ali-alemami/minishell)** — Custom POSIX-compliant Unix shell in C featuring an Abstract Syntax Tree (AST) parser, subshell execution, pipelines, heredocs, variable expansions, and signal handling; zero fd/memory leaks via Valgrind.
-* 🔮 **[mini_rt](https://github.com/ali-alemami/mini_rt)** — 3D raytracing engine written in C from scratch, implementing vector math, quadratic discriminant intersections, and Phong illumination physics (ambient, diffuse, specular, shadows) rendered via MiniLibX.
+* 🐚 **[minishell](https://github.com/ali-alemami/minishell)** — POSIX-compliant Unix shell in C featuring an Abstract Syntax Tree (AST) parser to enforce operator precedence, subshell execution, pipelines, heredocs, and signal handling; zero leaks via Valgrind.
+* 🔮 **[mini_rt](https://github.com/ali-alemami/mini_rt)** — 3D raytracing engine in C from scratch, implementing vector math, Phong illumination (ambient, diffuse, specular, shadows), and quadratic ray-surface intersections for geometric primitives rendered via MiniLibX.
 * ⚡ **[cpps](https://github.com/ali-alemami/cpps)** — 42 C++ Modules 00–09 (OOP, Orthodox Canonical Form, polymorphism, templates, STL) featuring the **Ford-Johnson Merge-Insert Sort (CPP09)** with dual STL containers (`std::vector`, `std::deque`) and Jacobsthal pairing heuristics.
-* 🏦 **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — Terminal-based banking and ATM system in C++ with bitmask user permissions (bitwise flags), transaction audit logging, and file-based data persistence.
-* 🏢 **[Contacts-App-3Tier](https://github.com/ali-alemami/Contacts-App-3Tier)** — A 3-tier desktop application separating UI, business logic, and data access layers, utilizing parameterized T-SQL queries to ensure data integrity and prevent SQL injection.
-* 🥞 **[push_swap](https://github.com/ali-alemami/push_swap)** — High-efficiency two-stack sorting algorithm using bitwise radix operations and instruction count optimization.
+* 🏦 **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — Terminal-based banking and ATM system in C++ with bitmask permission flags for granular access control, custom delimiter-based file serialization, transaction auditing, and file persistence.
+* 🏢 **[Contacts-App-3Tier](https://github.com/ali-alemami/Contacts-App-3Tier)** — 3-tier desktop application with strict layer separation across Presentation, Business Logic, and Data Access, utilizing parameterized T-SQL queries via ADO.NET to guarantee data integrity.
+* 🥞 **[push_swap](https://github.com/ali-alemami/push_swap)** — Two-stack sorting algorithm optimizing instruction counts using bitwise radix sort and dual-stack operations to sort arbitrary integer sets within strict operational bounds.
 
 ---
 
