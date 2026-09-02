@@ -1,5 +1,6 @@
-# Hi, I'm Ali 👋
-📍 **Amman, Jordan** | 🎓 **CS Student @ Hashemite University + 42 Amman** | 🔧 **Systems & Backend Developer**
+# Ali Alemami
+**Systems & Backend Developer** &bull; Amman, Jordan  
+*CS Student @ The Hashemite University & 42 Amman*
 
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
@@ -13,28 +14,28 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-* 🍝 **[philo](https://github.com/ali-alemami/philo)** — Multithreaded simulation of Dijkstra's Dining Philosophers using POSIX threads and mutex synchronization; prevents deadlocks and thread starvation using asynchronous state monitors and microsecond delta timers.
-* 🌐 **[webserv](https://github.com/ali-alemami/webserv)** — Non-blocking HTTP/1.1 web server in C++98 using `epoll` event multiplexing, supporting request stream parsing (GET/POST/DELETE), NGINX-style route configurations, and dynamic CGI execution.
-* 🐳 **[inception](https://github.com/ali-alemami/inception)** — Multi-service infrastructure orchestrating isolated NGINX (TLS/SSL v1.2/v1.3), WordPress (PHP-FPM), and MariaDB microservices with Docker Compose on Alpine Linux.
-* 🐚 **[minishell](https://github.com/ali-alemami/minishell)** — POSIX-compliant Unix shell in C featuring an Abstract Syntax Tree (AST) parser to enforce operator precedence, subshell execution, pipelines, heredocs, and signal handling; zero leaks via Valgrind.
-* 🔮 **[mini_rt](https://github.com/ali-alemami/mini_rt)** — 3D raytracing engine in C from scratch, implementing vector math, Phong illumination (ambient, diffuse, specular, shadows), and quadratic ray-surface intersections for geometric primitives rendered via MiniLibX.
-* ⚡ **[cpps](https://github.com/ali-alemami/cpps)** — 42 C++ Modules 00–09 (OOP, Orthodox Canonical Form, polymorphism, templates, STL) featuring the **Ford-Johnson Merge-Insert Sort (CPP09)** with dual STL containers (`std::vector`, `std::deque`) and Jacobsthal pairing heuristics.
-* 🏦 **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — Terminal-based banking and ATM system in C++ with bitmask permission flags for granular access control, custom delimiter-based file serialization, transaction auditing, and file persistence.
-* 🏢 **[Contacts-App-3Tier](https://github.com/ali-alemami/Contacts-App-3Tier)** — 3-tier desktop application with strict layer separation across Presentation, Business Logic, and Data Access, utilizing parameterized T-SQL queries via ADO.NET to guarantee data integrity.
-* 🥞 **[push_swap](https://github.com/ali-alemami/push_swap)** — Two-stack sorting algorithm optimizing instruction counts using bitwise radix sort and dual-stack operations to sort arbitrary integer sets within strict operational bounds.
-
----
-
-## 🗄️ Master Repositories & Archives
-
-* ⚡ **[42-core](https://github.com/ali-alemami/42-core)** — The central directory for all my 42 Amman Common Core projects (22/24 projects complete).
-* 🧮 **[Programming-Advices-Core](https://github.com/ali-alemami/Programming-Advices-Core)** — Domain-driven master repository of 225+ algorithmic solutions across 5 levels, 5 relational database schemas (Medical Clinic, E-Commerce, HR/Payroll, Vehicle Registry, Employee Analytics), and 3-tier desktop architecture.
+* **[philo](https://github.com/ali-alemami/philo)** — Multithreaded simulation of Dijkstra's Dining Philosophers using POSIX threads and mutex synchronization; prevents deadlocks and thread starvation using asynchronous state monitors and microsecond delta timers.
+* **[webserv](https://github.com/ali-alemami/webserv)** — Non-blocking HTTP/1.1 web server in C++98 using `epoll` event multiplexing, supporting request stream parsing (GET/POST/DELETE), NGINX-style route configurations, and dynamic CGI execution.
+* **[inception](https://github.com/ali-alemami/inception)** — Multi-service infrastructure orchestrating isolated NGINX (TLS/SSL v1.2/v1.3), WordPress (PHP-FPM), and MariaDB microservices with Docker Compose on Alpine Linux.
+* **[minishell](https://github.com/ali-alemami/minishell)** — POSIX-compliant Unix shell in C featuring an Abstract Syntax Tree (AST) parser to enforce operator precedence, subshell execution, pipelines, heredocs, and signal handling; zero leaks via Valgrind.
+* **[mini_rt](https://github.com/ali-alemami/mini_rt)** — 3D raytracing engine in C from scratch, implementing vector math, Phong illumination (ambient, diffuse, specular, shadows), and quadratic ray-surface intersections for geometric primitives rendered via MiniLibX.
+* **[cpps](https://github.com/ali-alemami/cpps)** — 42 C++ Modules 00–09 (OOP, Orthodox Canonical Form, polymorphism, templates, STL) featuring the **Ford-Johnson Merge-Insert Sort (CPP09)** with dual STL containers (`std::vector`, `std::deque`) and Jacobsthal pairing heuristics.
+* **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — Terminal-based banking and ATM system in C++ with bitmask permission flags for granular access control, custom delimiter-based file serialization, transaction auditing, and file persistence.
+* **[Contacts-App-3Tier](https://github.com/ali-alemami/Contacts-App-3Tier)** — 3-tier desktop application with strict layer separation across Presentation, Business Logic, and Data Access, utilizing parameterized T-SQL queries via ADO.NET to guarantee data integrity.
+* **[push_swap](https://github.com/ali-alemami/push_swap)** — Two-stack sorting algorithm optimizing instruction counts using bitwise radix sort and dual-stack operations to sort arbitrary integer sets within strict operational bounds.
 
 ---
 
-## 🛠️ Technical Skills
+## Master Repositories & Archives
+
+* **[42-core](https://github.com/ali-alemami/42-core)** — The central directory for all my 42 Amman Common Core projects (22/24 projects complete).
+* **[Programming-Advices-Core](https://github.com/ali-alemami/Programming-Advices-Core)** — Domain-driven master repository of 225+ algorithmic solutions across 5 levels, 5 relational database schemas (Medical Clinic, E-Commerce, HR/Payroll, Vehicle Registry, Employee Analytics), and 3-tier desktop architecture.
+
+---
+
+## Technical Skills
 
 | Domain | Technologies & Concepts |
 | :--- | :--- |
@@ -46,10 +47,9 @@
 
 ---
 
-## 📌 Education & Contact
+## Education & Contact
 
-* ⚙️ **42 Amman** — Common Core, 22/24 projects complete *(peer-reviewed, project-based)* | 2025 – present
-* 🎓 **The Hashemite University** — BSc in Computer Science | 2022 – 2026 (Expected)
-* 🎯 **Seeking:** Entry-Level Backend / Systems / Software Engineering Roles
-* 🌐 **Portfolio:** [ali-alemami.github.io](https://ali-alemami.github.io)
-* 📫 **Contact:** [ali.alemami01@gmail.com](mailto:ali.alemami01@gmail.com) | [LinkedIn](https://linkedin.com/in/ali-alemami)
+* **42 Amman** — Common Core, 22/24 projects complete *(peer-reviewed, project-based)* | 2025 – Present
+* **The Hashemite University** — BSc in Computer Science | 2022 – 2026 (Expected)
+* **Portfolio:** [ali-alemami.github.io](https://ali-alemami.github.io)
+* **Contact:** [ali.alemami01@gmail.com](mailto:ali.alemami01@gmail.com) | [LinkedIn](https://linkedin.com/in/ali-alemami)
