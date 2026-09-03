@@ -16,14 +16,14 @@
 
 ## Featured Projects
 
-* **[philo](https://github.com/ali-alemami/philo)** — Multithreaded simulation of Dijkstra's Dining Philosophers using POSIX threads and mutex synchronization; prevents deadlocks and thread starvation using asynchronous state monitors and microsecond delta timers.
-* **[webserv](https://github.com/ali-alemami/webserv)** — Non-blocking HTTP/1.1 web server in C++98 using `epoll` event multiplexing, supporting request stream parsing (GET/POST/DELETE), NGINX-style route configurations, and dynamic CGI execution.
-* **[inception](https://github.com/ali-alemami/inception)** — Multi-service infrastructure orchestrating isolated NGINX (TLS/SSL v1.2/v1.3), WordPress (PHP-FPM), and MariaDB microservices with Docker Compose on Alpine Linux.
-* **[minishell](https://github.com/ali-alemami/minishell)** — POSIX-compliant Unix shell in C featuring an Abstract Syntax Tree (AST) parser to enforce operator precedence, subshell execution, pipelines, heredocs, and signal handling; zero leaks via Valgrind.
-* **[mini_rt](https://github.com/ali-alemami/mini_rt)** — 3D raytracing engine in C from scratch, implementing vector math, Phong illumination (ambient, diffuse, specular, shadows), and quadratic ray-surface intersections for geometric primitives rendered via MiniLibX.
-* **[cpps](https://github.com/ali-alemami/cpps)** — 42 C++ Modules 00–09 (OOP, Orthodox Canonical Form, polymorphism, templates, STL) featuring the **Ford-Johnson Merge-Insert Sort (CPP09)** with dual STL containers (`std::vector`, `std::deque`) and Jacobsthal pairing heuristics.
-* **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — Terminal-based banking and ATM system in C++ with bitmask permission flags for granular access control, custom delimiter-based file serialization, transaction auditing, and file persistence.
-* **[Contacts-App-3Tier](https://github.com/ali-alemami/Contacts-App-3Tier)** — 3-tier desktop application with strict layer separation across Presentation, Business Logic, and Data Access, utilizing parameterized T-SQL queries via ADO.NET to guarantee data integrity.
+* **[philo](https://github.com/ali-alemami/philo)** — Engineered a race-free simulation of Dijkstra's Dining Philosophers using pthreads and mutex locks; built async monitoring routines with microsecond-precision timers preventing thread starvation and deadlocks.
+* **[webserv](https://github.com/ali-alemami/webserv)** — Building a non-blocking HTTP/1.1 server using epoll I/O multiplexing, with stateful request parsing, NGINX-style config parsing, and CGI execution.
+* **[inception](https://github.com/ali-alemami/inception)** — Architected a multi-container infrastructure with Docker Compose on Alpine Linux; isolated containers for NGINX (TLS/SSL), WordPress, and MariaDB with bind mounts and internal bridge networking.
+* **[minishell](https://github.com/ali-alemami/minishell)** — Implemented a POSIX-compliant shell with an AST parser enforcing operator precedence, nested subshell forks, and quote-aware tokenization; zero leaks via Valgrind.
+* **[mini_rt](https://github.com/ali-alemami/mini_rt)** — Built a 3D raytracing renderer from scratch in C, implementing ray-surface intersection math and Phong reflection models (ambient, diffuse, specular) rendered via MiniLibX.
+* **[cpps](https://github.com/ali-alemami/cpps)** — Completed 42 C++ Modules 00–09 (OOP, polymorphism, templates, STL); implemented Ford-Johnson Merge-Insert Sort optimizing comparisons via Jacobsthal sequence pairing.
+* **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — Built a terminal-based banking and ATM system in C++ with bitmask user permissions, transaction audit logging, and file-based persistence.
+* **[Contacts-App-3Tier](https://github.com/ali-alemami/Contacts-App-3Tier)** — Developed a 3-tier desktop application separating UI, business logic, and data access layers; used parameterized T-SQL queries to prevent SQL injection.
 * **[push_swap](https://github.com/ali-alemami/push_swap)** — Two-stack sorting algorithm optimizing instruction counts using bitwise radix sort and dual-stack operations to sort arbitrary integer sets within strict operational bounds.
 
 ---
@@ -47,9 +47,10 @@
 
 ---
 
-## Education & Contact
+## Experience & Education
 
-* **42 Amman** — Common Core, 22/24 projects complete *(peer-reviewed, project-based)* | 2025 – Present
+* **42 Amman** — Full-time intensive program, peer-reviewed project development | 2025 – Present
+  * *Structured, deadline-driven engineering program (22/24 Common Core projects complete); conducted 50+ peer technical evaluations and pair-programmed in teams (minishell, mini_rt).*
 * **The Hashemite University** — BSc in Computer Science | 2022 – 2026 (Expected)
 * **Portfolio:** [ali-alemami.github.io](https://ali-alemami.github.io)
 * **Contact:** [ali.alemami01@gmail.com](mailto:ali.alemami01@gmail.com) | [LinkedIn](https://linkedin.com/in/ali-alemami)
