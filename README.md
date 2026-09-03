@@ -20,11 +20,11 @@
 * **[webserv](https://github.com/ali-alemami/webserv)** — Building a non-blocking HTTP/1.1 server using epoll I/O multiplexing, with stateful request parsing, NGINX-style config parsing, and CGI execution.
 * **[inception](https://github.com/ali-alemami/inception)** — Architected a multi-container infrastructure with Docker Compose on Alpine Linux; isolated containers for NGINX (TLS/SSL), WordPress, and MariaDB with bind mounts and internal bridge networking.
 * **[minishell](https://github.com/ali-alemami/minishell)** — Implemented a POSIX-compliant shell with an AST parser enforcing operator precedence, nested subshell forks, and quote-aware tokenization; zero leaks via Valgrind.
-* **[mini_rt](https://github.com/ali-alemami/mini_rt)** — Built a 3D raytracing renderer from scratch in C, implementing ray-surface intersection math and Phong reflection models (ambient, diffuse, specular) rendered via MiniLibX.
+* **[pipex](https://github.com/ali-alemami/pipex)** — Engineered a Unix pipeline engine replicating shell redirection (`< file1 cmd1 | cmd2 > file2`) using `fork`, `pipe`, `dup2`, and `execve`; implemented POSIX process synchronization, multi-fd stream redirection, PATH resolution, and child exit status propagation.
 * **[cpps](https://github.com/ali-alemami/cpps)** — Completed 42 C++ Modules 00–09 (OOP, polymorphism, templates, STL); implemented Ford-Johnson Merge-Insert Sort optimizing comparisons via Jacobsthal sequence pairing.
 * **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — Built a terminal-based banking and ATM system in C++ with bitmask user permissions, transaction audit logging, and file-based persistence.
 * **[Contacts-App-3Tier](https://github.com/ali-alemami/Contacts-App-3Tier)** — Developed a 3-tier desktop application separating UI, business logic, and data access layers; used parameterized T-SQL queries to prevent SQL injection.
-* **[push_swap](https://github.com/ali-alemami/push_swap)** — Two-stack sorting algorithm optimizing instruction counts using bitwise radix sort and dual-stack operations to sort arbitrary integer sets within strict operational bounds.
+* **[push_swap](https://github.com/ali-alemami/push_swap)** — Optimized dual-stack sorting engine with cache-friendly array stacks and coordinate compression (rank indexing) bounding bit passes to log2(N), paired with a lookahead binary radix sort that eliminates redundant transfers via predictive next-bit Stack B retention.
 
 ---
 
