@@ -24,7 +24,7 @@
 * **[cpps](https://github.com/ali-alemami/cpps)** — Completed 42 C++ Modules 00–09 (OOP, polymorphism, templates, STL); implemented Ford-Johnson Merge-Insert Sort optimizing comparisons via Jacobsthal sequence pairing.
 * **[Bank-and-ATM-System-CPP](https://github.com/ali-alemami/Bank-and-ATM-System-CPP)** — Built a terminal-based banking and ATM system in C++ with bitmask user permissions, transaction audit logging, and file-based persistence.
 * **[Contacts-App-3Tier](https://github.com/ali-alemami/Contacts-App-3Tier)** — Developed a 3-tier desktop application separating UI, business logic, and data access layers; used parameterized T-SQL queries to prevent SQL injection.
-* **[push_swap](https://github.com/ali-alemami/push_swap)** — Optimized dual-stack sorting engine with cache-friendly array stacks and coordinate compression (rank indexing) bounding bit passes to log2(N), paired with a lookahead binary radix sort that eliminates redundant transfers via predictive next-bit Stack B retention.
+* **[push_swap](https://github.com/ali-alemami/push_swap)** — Engineered a dual-stack radix sort on array stacks with coordinate compression, bounding passes to log2(N); added lookahead bit-checking in Stack B to cut redundant transfers, with dedicated solvers for N ≤ 5.
 
 ---
 
