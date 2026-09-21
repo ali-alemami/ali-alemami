@@ -1,8 +1,9 @@
 # Ali Alemami
 **Systems & Backend Developer** &bull; Amman, Jordan  
+**Systems Developer** &bull; Amman, Jordan  
 *CS Student @ The Hashemite University & 42 Amman*
 
-> *Systems and backend developer with hands-on experience building concurrent simulations, Unix pipelines, and low-level tools in C/C++ at 42 Amman, alongside applications in C#/.NET. CS student at Hashemite University.*
+> *Systems developer with hands-on experience building concurrent simulations, Unix pipelines, and low-level tools in C/C++ at 42 Amman. CS student at Hashemite University.*
 
 ---
 
@@ -19,7 +20,18 @@
 ## Master Repositories & Archives
 
 * **[42-core](https://github.com/ali-alemami/42-core)** — Central directory for 42 Amman Common Core projects.
-* **[Programming-Advices-Core](https://github.com/ali-alemami/Programming-Advices-Core)** — Archived coursework repository containing 225+ algorithmic solutions across 5 levels, relational database schemas, and foundational C++ and C# exercises.
+* **[Programming-Advices-Core](https://github.com/ali-alemami/Programming-Advices-Core)** — Archived coursework repository containing 225+ algorithmic solutions across 5 levels, relational database schemas, and foundational C++ exercises.
+
+---
+
+## GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-alemami&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-alemami&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -27,10 +39,10 @@
 
 | Domain | Technologies & Concepts |
 | :--- | :--- |
-| **Programming Languages** | C (POSIX/C99), C++ (C++98/C++11), C# (.NET), SQL (T-SQL), Bash |
+| **Programming Languages** | C (POSIX/C99), C++ (C++98/C++11), SQL (T-SQL), Bash |
 | **Systems & OS Concepts** | Memory Management (Valgrind/ASan), Pthreads, Mutexes & Concurrency, Unix Signals & Pipes, File Descriptors, POSIX IPC |
-| **CS Fundamentals** | Data Structures & Algorithms, OOP, 3-Tier Architecture, Computer Networks |
-| **Tools & Infrastructure** | Linux/Unix, Git/GitHub, Docker & Docker Compose, Makefiles, NGINX, SQL Server, ADO.NET, GDB |
+| **CS Fundamentals** | Data Structures & Algorithms, OOP, Computer Networks |
+| **Tools & Infrastructure** | Linux/Unix, Git/GitHub, Docker & Docker Compose, Makefiles, NGINX, GDB |
 | **Spoken Languages** | Arabic (Native), English (Fluent / Professional) |
 
 ---
