@@ -6,22 +6,22 @@
 
 ---
 
-## Featured Projects
+## Featured Systems Projects
 
 * **[philo](https://github.com/ali-alemami/philo)** — Race-free simulation of Dijkstra's Dining Philosophers using pthreads and mutex locks; built async monitoring routines with microsecond-precision timers preventing starvation and deadlocks.
-* **[minishell](https://github.com/ali-alemami/minishell)** — Custom Unix-like shell with an AST parser enforcing operator precedence, nested subshell forks, and quote-aware tokenization.
 * **[pipex](https://github.com/ali-alemami/pipex)** — Unix pipeline engine reproducing shell redirection (`< file1 cmd1 | cmd2 > file2`) using `fork`, `pipe`, `dup2`, and `execve`; implements process synchronization, multi-fd stream redirection, PATH resolution, and child exit status propagation.
 * **[push_swap](https://github.com/ali-alemami/push_swap)** — Dual-stack radix sort on array stacks with coordinate compression; added lookahead bit inspection in Stack B to cut redundant transfers, with dedicated heuristic solvers for N <= 5.
 * **[cpps](https://github.com/ali-alemami/cpps)** — 42 C++ Modules 00–09 (OOP, Orthodox Canonical Form, templates, STL); implemented Ford-Johnson Merge-Insert Sort optimizing comparisons via Jacobsthal sequence pairing.
-* **[mini_rt](https://github.com/ali-alemami/mini_rt)** — Ray tracing engine in C implementing Phong reflection model, sphere/plane/cylinder intersections, and ambient/diffuse/specular lighting.
 * **[minitalk](https://github.com/ali-alemami/minitalk)** — Inter-process communication system in C transmitting strings bit-by-bit using Unix signals (`SIGUSR1`, `SIGUSR2`) with PID acknowledgment.
+* **minishell** *(C, Private Coursework)* — Custom Unix-like shell with an AST parser enforcing operator precedence, nested subshell forks, and quote-aware tokenization.
+* **mini_rt** *(C, Private Coursework)* — Ray tracing engine in C implementing Phong reflection model, sphere/plane/cylinder intersections, and ambient/diffuse/specular lighting.
 
 ---
 
 ## Master Repositories & Archives
 
 * **[42-core](https://github.com/ali-alemami/42-core)** — Central directory for 42 Amman Common Core projects.
-* **[Programming-Advices-Core](https://github.com/ali-alemami/Programming-Advices-Core)** — Coursework repository containing 225+ algorithmic solutions across 5 levels, relational database schemas, and foundational C++ and C# exercises.
+* **[Programming-Advices-Core](https://github.com/ali-alemami/Programming-Advices-Core)** — Archived coursework repository containing 225+ algorithmic solutions across 5 levels, relational database schemas, and foundational C++ and C# exercises.
 
 ---
 
@@ -40,7 +40,7 @@
 ## Experience & Education
 
 * **42 Amman** — Full-time intensive program, peer-reviewed project development | 2025 – Present
-  * *Structured engineering curriculum; conducted 50+ peer technical evaluations and pair-programmed in teams (minishell, mini_rt).*
+  * *Structured engineering curriculum; conducted 50+ peer technical evaluations and pair-programmed in teams.*
 * **The Hashemite University** — BSc in Computer Science | 2022 – 2026 (Expected)
 * **Portfolio:** [ali-alemami.github.io](https://ali-alemami.github.io)
 * **Contact:** [ali.alemami01@gmail.com](mailto:ali.alemami01@gmail.com) | [LinkedIn](https://linkedin.com/in/ali-alemami)
