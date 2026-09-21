@@ -2,7 +2,7 @@
 **Systems & Backend Developer** &bull; Amman, Jordan  
 *CS Student @ The Hashemite University & 42 Amman*
 
-> *Systems and backend developer with hands-on experience building Unix shells, concurrent simulations, and low-level tools in C/C++ at 42 Amman, alongside applications in C#/.NET. CS student at Hashemite University.*
+> *Systems and backend developer with hands-on experience building concurrent simulations, Unix pipelines, and low-level tools in C/C++ at 42 Amman, alongside applications in C#/.NET. CS student at Hashemite University.*
 
 ---
 
@@ -13,8 +13,6 @@
 * **[push_swap](https://github.com/ali-alemami/push_swap)** — Dual-stack radix sort on array stacks with coordinate compression; added lookahead bit inspection in Stack B to cut redundant transfers, with dedicated heuristic solvers for N <= 5.
 * **[cpps](https://github.com/ali-alemami/cpps)** — 42 C++ Modules 00–09 (OOP, Orthodox Canonical Form, templates, STL); implemented Ford-Johnson Merge-Insert Sort optimizing comparisons via Jacobsthal sequence pairing.
 * **[minitalk](https://github.com/ali-alemami/minitalk)** — Inter-process communication system in C transmitting strings bit-by-bit using Unix signals (`SIGUSR1`, `SIGUSR2`) with PID acknowledgment.
-* **minishell** *(C, Private Coursework)* — Custom Unix-like shell with an AST parser enforcing operator precedence, nested subshell forks, and quote-aware tokenization.
-* **mini_rt** *(C, Private Coursework)* — Ray tracing engine in C implementing Phong reflection model, sphere/plane/cylinder intersections, and ambient/diffuse/specular lighting.
 
 ---
 
