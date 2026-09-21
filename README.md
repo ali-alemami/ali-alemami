@@ -12,7 +12,7 @@
 * **[pipex](https://github.com/ali-alemami/pipex)** — Unix pipeline engine reproducing shell redirection (`< file1 cmd1 | cmd2 > file2`) using `fork`, `pipe`, `dup2`, and `execve`; implements process synchronization, multi-fd stream redirection, PATH resolution, and child exit status propagation.
 * **[push_swap](https://github.com/ali-alemami/push_swap)** — Dual-stack radix sort on array stacks with coordinate compression; added lookahead bit inspection in Stack B to cut redundant transfers, with dedicated heuristic solvers for N <= 5.
 * **[cpps](https://github.com/ali-alemami/cpps)** — 42 C++ Modules 00–09 (OOP, Orthodox Canonical Form, templates, STL); implemented Ford-Johnson Merge-Insert Sort optimizing comparisons via Jacobsthal sequence pairing.
-* **[minitalk](https://github.com/ali-alemami/minitalk)** — Inter-process communication system in C transmitting strings bit-by-bit using Unix signals (`SIGUSR1`, `SIGUSR2`) with PID acknowledgment.
+* **[minitalk](https://github.com/ali-alemami/minitalk)** — Inter-process communication system in C transmitting strings bit-by-bit using Unix signals (`SIGUSR1`, `SIGUSR2`).
 
 ---
 
